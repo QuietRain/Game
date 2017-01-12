@@ -1,0 +1,155 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,Archer_Move_png,Ground_png,Wall_png,Archer_Idle_json,Archer_Idle_png,Archer_Move_json,_monster_png,map_jpg,Npc1_png,Npc2_png,tanhao_png,wenhao_png,wenhao2_png,宝石_png,屠龙宝刀_png,Button_png,属性文件_jpg,stand_png,fight_json,fight_png,stand_json,move_right_json,move_right_png,move_left_json,move_left_png,box_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "Archer_Move_png",
+			"type": "image",
+			"url": "assets/Archer_Move.png"
+		},
+		{
+			"name": "Ground_png",
+			"type": "image",
+			"url": "assets/Ground.png"
+		},
+		{
+			"name": "Wall_png",
+			"type": "image",
+			"url": "assets/Wall.png"
+		},
+		{
+			"name": "Archer_Idle_json",
+			"type": "json",
+			"url": "assets/Archer_Idle.json"
+		},
+		{
+			"name": "Archer_Idle_png",
+			"type": "image",
+			"url": "assets/Archer_Idle.png"
+		},
+		{
+			"name": "Archer_Move_json",
+			"type": "json",
+			"url": "assets/Archer_Move.json"
+		},
+		{
+			"name": "_monster_png",
+			"type": "image",
+			"url": "assets/_monster.png"
+		},
+		{
+			"name": "map_jpg",
+			"type": "image",
+			"url": "assets/map.jpg"
+		},
+		{
+			"name": "Npc1_png",
+			"type": "image",
+			"url": "assets/Npc1.png"
+		},
+		{
+			"name": "Npc2_png",
+			"type": "image",
+			"url": "assets/Npc2.png"
+		},
+		{
+			"name": "tanhao_png",
+			"type": "image",
+			"url": "assets/tanhao.png"
+		},
+		{
+			"name": "wenhao_png",
+			"type": "image",
+			"url": "assets/wenhao.png"
+		},
+		{
+			"name": "wenhao2_png",
+			"type": "image",
+			"url": "assets/wenhao2.png"
+		},
+		{
+			"name": "宝石_png",
+			"type": "image",
+			"url": "assets/宝石.png"
+		},
+		{
+			"name": "屠龙宝刀_png",
+			"type": "image",
+			"url": "assets/屠龙宝刀.png"
+		},
+		{
+			"name": "Button_png",
+			"type": "image",
+			"url": "assets/Button.png"
+		},
+		{
+			"name": "属性文件_jpg",
+			"type": "image",
+			"url": "assets/属性文件.jpg"
+		},
+		{
+			"name": "stand_png",
+			"type": "image",
+			"url": "assets/stand.png"
+		},
+		{
+			"name": "fight_json",
+			"type": "json",
+			"url": "assets/fight.json"
+		},
+		{
+			"name": "fight_png",
+			"type": "image",
+			"url": "assets/fight.png"
+		},
+		{
+			"name": "stand_json",
+			"type": "json",
+			"url": "assets/stand.json"
+		},
+		{
+			"name": "move_right_json",
+			"type": "json",
+			"url": "assets/move_right.json"
+		},
+		{
+			"name": "move_right_png",
+			"type": "image",
+			"url": "assets/move_right.png"
+		},
+		{
+			"name": "move_left_json",
+			"type": "json",
+			"url": "assets/move_left.json"
+		},
+		{
+			"name": "move_left_png",
+			"type": "image",
+			"url": "assets/move_left.png"
+		},
+		{
+			"name": "box_png",
+			"type": "image",
+			"url": "assets/box.png"
+		}
+	]
+}
